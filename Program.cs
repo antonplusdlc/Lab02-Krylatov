@@ -40,3 +40,12 @@ decimal priceDecimal = 0.1m + 0.2m;
 
 Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
 Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");
+
+Console.WriteLine();
+Console.WriteLine("var");
+
+var studentAge = 20; // int
+var gpa = 4.75; // double
+var fullName = "Smirnova A.C"; // string
+
+Console.WriteLine($"{fullName}, {studentAge}, {gpa}");
