@@ -84,3 +84,20 @@ bool wasSuccess = int.TryParse(booksCnt, out int booksCount);
 
 Console.WriteLine($"Success: {wasSuccess}");
 Console.WriteLine($"booksCount: {booksCount}");
+
+Console.Write("Enter your full name: ");
+string fullName1 = Console.ReadLine();
+Console.Write("Enter your group name: ");
+string groupName1 = Console.ReadLine();
+Console.Write("год рождения: ");
+int godRoshd = Convert.ToInt32(Console.ReadLine());
+Console.Write("Средний балл за прошлый семестр: ");
+double sredniiball = double.Parse(Console.ReadLine());
+Console.Write("любимая буква: ");
+char loveBukva = Console.ReadLine()[0];
+
+Console.WriteLine("     Анкета");
+
+Console.WriteLine($"Name: {fullName1}\nGroup: {groupName1}\nгод рождения: {godRoshd}\nсредний балл за семестр: {sredniiball}\nлюбимая буква: {loveBukva}");
+
+Console.WriteLine($"в 2030 тебе будет: {2030 - godRoshd}\nБалл >= 4.0: {sredniiball >= 4.0}");
