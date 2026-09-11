@@ -121,3 +121,16 @@ Console.Write("Имя: ");
 string ima = Console.ReadLine();
 
 Console.WriteLine($"{famil} {ima[0]}.");
+
+Console.WriteLine();
+
+Console.Write("int: ");
+bool int1Success = int.TryParse(Console.ReadLine(), out int int1);
+
+Console.Write("double: ");
+bool double1Success = double.TryParse(Console.ReadLine(), out double double1);
+
+Console.Write("DateTime: ");
+bool timeSuccess = DateTime.TryParse(Console.ReadLine(), out DateTime time1);
+
+Console.WriteLine($"Int:\nSuccess?: {int1Success}\nInt: {int1}\ndouble:\nSuccess?: {double1Success}\ndouble: {double1}\nTime:\nSuccess?: {timeSuccess}\ntime: {time1}");
