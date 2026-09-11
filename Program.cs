@@ -101,3 +101,14 @@ Console.WriteLine("     Анкета");
 Console.WriteLine($"Name: {fullName1}\nGroup: {groupName1}\nгод рождения: {godRoshd}\nсредний балл за семестр: {sredniiball}\nлюбимая буква: {loveBukva}");
 
 Console.WriteLine($"в 2030 тебе будет: {2030 - godRoshd}\nБалл >= 4.0: {sredniiball >= 4.0}");
+
+Console.WriteLine();
+
+Console.Write("Рост в метрах: ");
+double rost = double.Parse(Console.ReadLine());
+Console.Write("вес в кг: ");
+double ves = double.Parse(Console.ReadLine());
+
+double imt = ves / (rost * rost);
+
+Console.WriteLine($"IMT: {imt:F2}");
