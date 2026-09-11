@@ -112,3 +112,12 @@ double ves = double.Parse(Console.ReadLine());
 double imt = ves / (rost * rost);
 
 Console.WriteLine($"IMT: {imt:F2}");
+
+Console.WriteLine();
+
+Console.Write("Фамилия: ");
+string famil = Console.ReadLine();
+Console.Write("Имя: ");
+string ima = Console.ReadLine();
+
+Console.WriteLine($"{famil} {ima[0]}.");
