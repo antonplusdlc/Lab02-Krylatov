@@ -12,3 +12,4 @@ C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\refint\Lab02-Kryl
 C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.pdb
 C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.genruntimeconfig.cache
 C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\ref\Lab02-Krylatov.dll
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.sourcelink.json

@@ -18,3 +18,25 @@ Console.WriteLine("Переполнение byte");
 byte maxByte = 255;
 byte overflowed = (byte)(maxByte + 1);
 Console.WriteLine($"255 + 1 for byte = {overflowed}");
+
+Console.WriteLine();
+
+Console.WriteLine("char");
+
+char firstLetter = 'A';
+char separator = '-';
+int charAsNumber = firstLetter; // unicode prekolchiki
+
+Console.WriteLine($"Symbol: {firstLetter}, separator: {separator}");
+Console.WriteLine($"Symbol code '{firstLetter}' into unicode: {charAsNumber}");
+Console.WriteLine($"tabulation:\tпосле таба");
+Console.WriteLine($"перенос:\nпосле переноса");
+
+Console.WriteLine();
+Console.WriteLine("decimal vs double");
+
+double priceDouble = 0.1 + 0.2;
+decimal priceDecimal = 0.1m + 0.2m;
+
+Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
+Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");
