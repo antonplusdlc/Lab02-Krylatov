@@ -60,3 +60,27 @@ Console.Write("enter your group: ");
 string groupName = Console.ReadLine();
 
 Console.WriteLine($"Hello, {name} from group {groupName}!");
+
+Console.WriteLine();
+Console.WriteLine("convert and parse");
+
+Console.Write("Enter your year roshdenia: ");
+string yearInput = Console.ReadLine();
+
+int yearConvert = Convert.ToInt32(yearInput);
+int yearParse = int.Parse(yearInput);
+
+Console.WriteLine($"Convert.ToInt32: {yearConvert}");
+Console.WriteLine($"int.Parse: {yearParse}");
+Console.WriteLine($"2030: {2030 - yearConvert} years old");
+
+Console.WriteLine();
+Console.WriteLine("TryParse");
+
+Console.Write("дай кол-во книг сколько мечтал прочитать за семестр: ");
+string booksCnt = Console.ReadLine();
+
+bool wasSuccess = int.TryParse(booksCnt, out int booksCount);
+
+Console.WriteLine($"Success: {wasSuccess}");
+Console.WriteLine($"booksCount: {booksCount}");

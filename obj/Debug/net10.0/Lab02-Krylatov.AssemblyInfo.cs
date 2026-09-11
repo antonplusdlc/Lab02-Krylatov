@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Krylatov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd4b5cc3bb05887679396944cd66dde2c5d2f24f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b787074d7f51016bf125062e649ff158d60aa428")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Krylatov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Krylatov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
