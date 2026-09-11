@@ -1,0 +1,14 @@
+C:\Users\Student_01\Documents\Lab02-Krylatov\bin\Debug\net10.0\Lab02-Krylatov.exe
+C:\Users\Student_01\Documents\Lab02-Krylatov\bin\Debug\net10.0\Lab02-Krylatov.deps.json
+C:\Users\Student_01\Documents\Lab02-Krylatov\bin\Debug\net10.0\Lab02-Krylatov.runtimeconfig.json
+C:\Users\Student_01\Documents\Lab02-Krylatov\bin\Debug\net10.0\Lab02-Krylatov.dll
+C:\Users\Student_01\Documents\Lab02-Krylatov\bin\Debug\net10.0\Lab02-Krylatov.pdb
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.AssemblyInfoInputs.cache
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.AssemblyInfo.cs
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.csproj.CoreCompileInputs.cache
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.dll
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\refint\Lab02-Krylatov.dll
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.pdb
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\Lab02-Krylatov.genruntimeconfig.cache
+C:\Users\Student_01\Documents\Lab02-Krylatov\obj\Debug\net10.0\ref\Lab02-Krylatov.dll
