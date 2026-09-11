@@ -49,3 +49,14 @@ var gpa = 4.75; // double
 var fullName = "Smirnova A.C"; // string
 
 Console.WriteLine($"{fullName}, {studentAge}, {gpa}");
+
+Console.WriteLine();
+Console.WriteLine("Enter text");
+
+Console.Write("enter your name: ");
+string name = Console.ReadLine();
+
+Console.Write("enter your group: ");
+string groupName = Console.ReadLine();
+
+Console.WriteLine($"Hello, {name} from group {groupName}!");
